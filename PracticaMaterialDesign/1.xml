@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#CDDC39 </item>
+        <item name="android:colorPrimaryDark">#AFB42B</item>
+        <item name="android:colorAccent">#E040FB</item>
+        <item name="android:colorButtonNormal">#2196F3</item>
+    </style>
+
+</resources>
+
+
+
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#CDDC39 </item>
+        <item name="colorPrimaryDark">#AFB42B</item>
+        <item name="colorAccent">#E040FB</item>
+        <item name="colorButtonNormal">#2196F3</item>
+    </style>
+
+</resources>

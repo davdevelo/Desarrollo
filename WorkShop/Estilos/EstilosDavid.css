@@ -1,0 +1,59 @@
+
+/*Clases*/
+
+.bordes-verde {
+    background-color: green;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: burlywood;
+    border: 5px dashed white;
+    padding: 20px;
+}
+
+.texto-grande {
+    font-size: 35px;
+}
+
+.img-150-150 {
+    width: 150px;
+    height: 150px;
+}
+
+
+
+/* Ctrol + Shift + L para identar el codigo*/
+
+/*IDS*/
+
+#nombre {
+    background-color: darkkhaki;
+}
+
+.contenido {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: #2196F3!important;
+    color: #000!important;
+    background-color: #ddffff!important;
+    padding: 0.01em 16px;
+    border-left: 6px solid #ccc!important;
+}
+
+.contenidoDos {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(http://www.w3schools.com/cssref/border.png) 30 stretch;
+    -o-border-image: url(http://www.w3schools.com/cssref/border.png) 30 stretch;
+    border-image: url(http://www.w3schools.com/cssref/border.png) 30 stretch;
+    background-color: white;
+
+}
+
+.imagen{
+    width: 100%;
+    max-height: 300px;
+    max-width: 200px;
+        
+}

@@ -1,0 +1,34 @@
+/*
+html {
+    background-color: #4cb8c5;
+}
+
+h1 {
+    background-color: chocolate;
+    font-family: fantasy;
+}*/
+
+h2 {
+    background-color: green;
+    font-size: 15px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    background-color: darkseagreen;
+    font-size: 35px;
+    border-radius: 45px;
+    border: 5px dashed white;
+    padding: 5px;
+}
+
+/*h1 {
+    background-color: red;
+}
+
+head {
+    background-color: black;
+}
+
+body {
+    background-color: brown;
+}
+*/

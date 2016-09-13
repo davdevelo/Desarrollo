@@ -1,4 +1,3 @@
-
 /*Clases*/
 
 .bordes-verde {
@@ -17,16 +16,6 @@
 .img-150-150 {
     width: 150px;
     height: 150px;
-}
-
-
-
-/* Ctrol + Shift + L para identar el codigo*/
-
-/*IDS*/
-
-#nombre {
-    background-color: darkkhaki;
 }
 
 .contenido {
@@ -48,12 +37,21 @@
     -o-border-image: url(http://www.w3schools.com/cssref/border.png) 30 stretch;
     border-image: url(http://www.w3schools.com/cssref/border.png) 30 stretch;
     background-color: white;
-
 }
 
-.imagen{
+.imagenPropiedades {
     width: 100%;
+    height: 270px;
     max-height: 300px;
-    max-width: 200px;
-        
+    background-color: #419b4c;
+}
+
+
+/* Ctrol + Shift + L para identar el codigo*/
+
+
+/*IDS*/
+
+#nombre {
+    background-color: darkkhaki;
 }
